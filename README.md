@@ -15,12 +15,12 @@ Frontend developer with a passion for creating compelling user experiences💡
 ### Projects
 All projects are completely adaptable for different devices
 
- **Random password generator**
-[Code](https://github.com/DenysBohdanenko/password-generator)
+ **Random password generator**\
+[Code](https://github.com/DenysBohdanenko/password-generator)\
 [Check it out](https://denysbohdanenko.github.io/password-generator/)
 
-**Headphones landing page**
-[Code](https://github.com/DenysBohdanenko/headphones)
+**Headphones landing page**\
+[Code](https://github.com/DenysBohdanenko/headphones)\
 [Check it out](https://denysbohdanenko.github.io/headphones/)
 
 <!---
